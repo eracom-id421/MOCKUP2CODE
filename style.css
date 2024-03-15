@@ -110,7 +110,7 @@ margin-right: 250px;
 width: 481px;
 height: 144px;
 flex-direction: column;
-justify-content: center;
+justify-content: left;
 flex-shrink: 0;
   }
 
